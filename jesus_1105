@@ -1,0 +1,31 @@
+    1  echo "# jtavares_4_poit" >> README.md
+    2  README.md
+    3  commit -m first commit
+    4  git inti
+    5  git init
+    6  git add README.md
+    7  git commit -m "first commit"
+    8  git remote add origin git@github.com:wetwater/jtavares_4_poit.git
+    9  git push -u origin master
+   10  git remote add origin git@github.com:wetwater/jtavares_4_poit.git
+   11  echo "# jtavares_4_poit" >> README.md
+   12  git init
+   13  git add README.md
+   14  git commit -m "first commit"
+   15  git remote add origin git@github.com:wetwater/jtavares_4_poit.git
+   16  git push -u origin master
+   17  ssh-keygen 
+   18  cat ~/.ssh/id_rsa.pub 
+   19  git add * 
+   20  ls 
+   21  rm -rf .git/
+   22  mkdir jesus_4_poit
+   23  cd jesus_4_poit/
+   24  echo "mic check" > README.md
+   25  git init 
+   26  git add * 
+   27  git commit -m "hey"
+   28  git config --global user.email jesust@tamarind.saisd.net
+   29  git config --global user.email "jesust@tamarind.saisd.net"
+   30  git config --global user.name "jesus tavares"
+   31  history > jesus_1105
